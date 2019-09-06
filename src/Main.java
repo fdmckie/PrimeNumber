@@ -24,7 +24,7 @@ public class Main {
 
         }
 
-        if (modulusCount <= 2) {
+        if (modulusCount == 2) {
             System.out.println();
             System.out.println(num1 + " is a prime number!!!");
         }
